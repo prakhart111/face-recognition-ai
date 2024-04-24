@@ -4,4 +4,4 @@ This is the frontend for the project. It is a React app that uses the backend to
 
 ### UI Design
 
-<img src="./UI_design.png" alt="UI Design" width="100%" />
+<img src="./ui.jpg" alt="UI Design" width="100%" />

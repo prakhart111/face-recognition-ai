@@ -1,8 +1,8 @@
 ## Model Documentation & Details
 
-**Facial Recognition System** is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.
+**Facial Similarity Detection System** is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.
 
-We'll be building a face recognition model that uses **Siamese Networks** to give us a distance value that indicates whether 2 images are same or different.
+We'll be building a face recognition model that uses **Siamese Networks** and takes 3 input images to give us a distance value that indicates which of these 2 images are similar or dissimilar to the anchor image.
 
 #### **The Dataset**
 
@@ -28,4 +28,4 @@ The Extracted Faces contains faces extracted from the base images using **Haar-C
 
 #### Using the model
 
-- work in progress
+Refer to the **Backend Documentation** for details on how to use the model API.
