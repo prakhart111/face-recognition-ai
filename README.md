@@ -10,8 +10,8 @@
 
 ## Project Structure
 
-- **backend**: Contains the model and API.
-- **frontend**: Contains the React Frontend.
+- **backend**: Contains the model and API. ( Tech Stack: FastAPI, TensorFlow, Keras, Pillow, AWS )
+- **frontend**: Contains the React Frontend. ( Tech Stack: React, Axios, TailwindCSS )
 
 ## Project Setup
 
@@ -34,6 +34,6 @@
 
 ## Team
 
-Prakhar Tandon, Vaibhav Shakhvar, Abhishek Agrahri and Mansi Purwar. <br/>
+Prakhar Tandon, Vaibhav Shankhwar, Abhishek Agrahri and Mansi Purwar. <br/>
 Final B.Tech. Computer Science & Engineering. <br/>
-Under Guidance of Dr. Vivek Verma, Assistant Professor, CSE Dept, HBTU.<br/>
+Under Guidance of Dr. Vivek Verma, Professor, CSE Dept, HBTU Kanpur.<br/>
