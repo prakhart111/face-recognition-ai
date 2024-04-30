@@ -1,9 +1,8 @@
 from fastapi import FastAPI, File, UploadFile
-from tensorflow.keras.models import load_model
+from tensorflow.python.keras.models import load_model
 from io import BytesIO
-from tensorflow.keras.preprocessing import image
-import numpy as np
-import tensorflow as tf
+# import numpy as np
+# import tensorflow as tf
 from PIL import Image
 import uvicorn
 
@@ -85,4 +84,4 @@ async def predict_api(fileAnchor: UploadFile = File(...), file1: UploadFile = Fi
     return final_prediction
 
 if __name__ == "__main__":
-    uvicorn.run(app, debug = True)
+    uvicorn.run(app, host="127.0.0.1", port=8000)

@@ -1,5 +1,9 @@
 # Face Similarity Detection AI
 
+- Run the API using `python3 main.py`.
+- To test if API is working, visit `http://127.0.0.1:8000/test`.
+- To test API endpoint using Fast Docs, visit `http://127.0.0.1:8000/docs`
+
 ## Building an API
 
 ### Steps
