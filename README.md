@@ -20,6 +20,14 @@
 - Install the required packages using `pip install -r requirements.txt`.
 - Run the API using `uvicorn main:app --reload`.
 
+- Working
+
+- Sample 1: 
+<img width="810" alt="Sample_1" src="https://github.com/prakhart111/face-recognition-ai/assets/86708181/3394bfe6-043c-4566-8854-357395b5a1bf">
+
+- Sample 2: 
+<img width="810" alt="Sample_2" src="https://github.com/prakhart111/face-recognition-ai/assets/86708181/319899be-ab60-49b3-8816-a5316b82c660">
+
 ### Frontend
 
 - Install the required packages using `npm install`.
